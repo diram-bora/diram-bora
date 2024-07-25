@@ -1,4 +1,4 @@
-| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=green) | ![Followers](https://img.shields.io/github/followers/dirambora) | ![Stars](https://img.shields.io/github/stars/dirambora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=diram-bora&color=green) | ![Followers](https://img.shields.io/github/followers/diram-bora) | ![Stars](https://img.shields.io/github/stars/diram-bora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 <h1 align="center">Hi 👋, I'm Diram</h1>

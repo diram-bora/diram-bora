@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Diram</h1>
 <h3 align="center">Software engineer and Digital Creator based in Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mule-me&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diram-bora&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
 
 - 🔭 I’m currently working on **Backend Projects for a Financial Services company in Nairobi**
 
